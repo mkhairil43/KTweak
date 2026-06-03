@@ -1,0 +1,6 @@
+id=ktweak
+name=KTweak
+version=v2.1.0
+versionCode=210
+author=Draco (@tytydraco)
+description=Safety-enhanced kernel tuner with backup/restore, profiles, and dry-run support for Android 10-17+
